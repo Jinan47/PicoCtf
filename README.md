@@ -1,7 +1,7 @@
 # PicoCTF
 
 Why is this important🤔: @PicoCTF repo helps to increase your IQ in math, computer science, python and many more!
-This repo contains all the Pico-CTF problems and challengesYOU 👊
+This repo contains all the Pico-CTF problems and challenges YOU 👊
 Gives you a problem to be solved ⛔
 Gives you the files needed to solve the problem 📂
 Gives you the answer to the problem ✅
