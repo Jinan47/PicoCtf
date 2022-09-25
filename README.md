@@ -6,6 +6,7 @@ Gives you a problem to be solved ⛔
 Gives you the files needed to solve the problem 📂
 Gives you the answer to the problem ✅
 Gives you an amazing tutorial video to help you and to make sure the idea have reached you 🤗
+Go and share your solution in the Discussions to spread your ideas with the community 🤼
 
 I hope you'll benefit from me
 
