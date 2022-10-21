@@ -7,4 +7,4 @@ Catogory: General Skills
 
 ## Description
 
-This file has a flag in plain sight (aka "in-the-clear"). [Download flag](.flag).
+This file has a flag in plain sight (aka "in-the-clear"). [Download flag](flag).
