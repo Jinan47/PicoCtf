@@ -20,7 +20,7 @@ $ wget https://mercury.picoctf.net/static/217686fc11d733b80be62dcfcfca6c75/flag
 UM...Just open the webshell and download the flag there just type in what is wrote in the hint 2. And then change the mode of the flag file by just using "chmod +x flag" And the open the flag using "./flag"
 
 ## Video Tutorial
-Enter this [video](https://www.youtube.com/watch?v=GPsQywOVbE8) to get the tutorial from my channel
+Enter this [video](https://www.youtube.com/watch?v=GPsQywOVbE8) to watch the tutorial on my channel
 
 ## Flag
 picoCTF{s4n1ty_v3r1f13d_b5aeb3dd}
