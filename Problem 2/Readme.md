@@ -1,21 +1,38 @@
-# Mod 26
+# Python Wrangling
 
 
 ## Overview
 Points: 10   
-Catogory: Cryptography
+Catogory: General Skills
 
 ## Description
-Cryptography can be easy, do you know what ROT13 is? cvpbPGS{arkg_gvzr_V'yy_gel_2_ebhaqf_bs_ebg13_MAZyqFQj}
+Python scripts are invoked kind of like programs in the Terminal... Can you run [this Python script](https://github.com/Jinan47/PicoCTF/blob/main/Problem%203/ende.py) using [this password](https://github.com/Jinan47/PicoCTF/blob/main/Problem%203/password.txt) to get [the flag](https://github.com/Jinan47/PicoCTF/blob/main/Problem%203/password.txt)?
 
 ## Hints
-1: This can be solved online if you don't want to do it by hand!
+1: Get the Python script accessible in your shell by entering the following command in the Terminal prompt: $ wget https://mercury.picoctf.net/static/8e33ede04d02f3765b8c6a6e24d72733/ende.py
+
+2: $ man python
+
+## Extra Hints
+1: Get the Flag accessible in your shell by entering the following command in the Termianl prompt: $ wget https://mercury.picoctf.net/static/8e33ede04d02f3765b8c6a6e24d72733/flag.txt.en
+
+2: Get the password using the txt uploaded in the same folder of this writeup
 
 ## Aproach
-Google search ROT13 and enter the [first link](https://rot13.com/). Then paste the rot13 code
+1st, Download the python script using the 1st hint in the hints section.
+
+2nd, Download the flag using the 1st hint in the extra hints section
+
+3rd, Get the password from the password txt uploaded in the same folder of this writeup
+
+4th, $ python3 ende.py
+
+5th, $ python3 ende.py -d flag.txt.en
+
+6th, Paste the password from the password txt
 
 ## Video Tutorial
-Enter this [video](https://www.youtube.com/watch?v=nj1wK6s9Aeg) to watch the tutorial on my channel
+Enter this [video](https://www.youtube.com/watch?v=WfO9vTn1BKo) to watch the tutorial on my channel
 
 ## Flag
-picoCTF{next_time_I'll_try_2_rounds_of_rot13_ZNMldSDw}
+picoCTF{4p0110_1n_7h3_h0us3_aa821c16}
