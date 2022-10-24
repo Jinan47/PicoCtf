@@ -6,7 +6,7 @@ Points: 10
 Catogory: General Skills
 
 ## Description
-Python scripts are invoked kind of like programs in the Terminal... Can you run [this Python script](https://github.com/Jinan47/PicoCTF/blob/main/Problem%203/ende.py) using [this password](https://github.com/Jinan47/PicoCTF/blob/main/Problem%203/password.txt) to get [the flag](https://github.com/Jinan47/PicoCTF/blob/main/Problem%203/password.txt)?
+Python scripts are invoked kind of like programs in the Terminal... Can you run [this Python script](https://github.com/Jinan47/PicoCTF/blob/main/Problem%203/ende.py) using [this password](https://github.com/Jinan47/PicoCTF/blob/main/Problem%203/password.txt) to get [the flag](https://github.com/Jinan47/PicoCTF/blob/main/Problem%203/flag.txt.en)?
 
 ## Hints
 1: Get the Python script accessible in your shell by entering the following command in the Terminal prompt: $ wget https://mercury.picoctf.net/static/8e33ede04d02f3765b8c6a6e24d72733/ende.py
