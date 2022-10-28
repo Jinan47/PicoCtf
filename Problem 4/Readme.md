@@ -9,9 +9,9 @@ Catogory: General Skills
 Can you invoke help flags for a tool or binary? This program has extraordinarily helpful information...
 
 ## Hints
-1: Get the Flag accessible in your shell by entering the following command in the Termianl prompt: $ wget https://mercury.picoctf.net/static/8e33ede04d02f3765b8c6a6e24d72733/flag.txt.en
+1: This program will only work in the webshell or another Linux computer.
 
-2: Get the password using the txt uploaded in the same folder of this writeup
+2: To get the file accessible in your shell, enter the following in the Terminal prompt: $ wget https://mercury.picoctf.net/static/a14be2648c73e3cda5fc8490a2f476af/warm
 
 3: Run this program by entering the following in the Terminal prompt: $ ./warm, but you'll first have to make it executable with $ chmod +x warm
 
@@ -20,7 +20,7 @@ Can you invoke help flags for a tool or binary? This program has extraordinarily
 5: Not every program implements help features like -h and --help.
 
 ## Aproach
-1st, Download the program on the webshell using the 1st hint in the hints section
+1st, Download the program on the webshell using the 2nd hint in the hints section
 
 2nd, change the mod of the program using chmod +x warm
 
