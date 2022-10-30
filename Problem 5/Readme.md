@@ -19,7 +19,7 @@ Files can always be changed in a secret way. Can you find the flag? [cat.jpg](ht
 2: It's good to decode sometimes to get what you need
 
 ## Aproach
-1: We shall look at the details of the jpg according to the 1st hint
+1: We shall look at the details of the jpg according to the 1st hint in the Hints Section
 
 2: Download the file on your webshell: 
 
