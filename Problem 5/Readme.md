@@ -34,7 +34,7 @@ Files can always be changed in a secret way. Can you find the flag? [cat.jpg](ht
 6: Decode it using [this website](https://www.base64decode.org)
 
 ## Video Tutorial
-Enter this [video]() to watch the tutorial on my channel
+Enter this [video](https://www.youtube.com/watch?v=Db75I6R1Tgs) to watch the tutorial on my channel
 
 ## Flag
 picoCTF{the_m3tadata_1s_modified}
